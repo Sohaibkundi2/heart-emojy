@@ -15,7 +15,7 @@ This project creates a dynamic and visually engaging heart trail effect that fol
 - JavaScript (DOM manipulation, events)
 
 ### Preview 
-- [live demo](heart-emojy.vercel.app)
+- [live demo](https://heart-emojy.vercel.app/)
 - ![ss](image.png)
 
 ### Author  
